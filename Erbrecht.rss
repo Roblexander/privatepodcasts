@@ -1,71 +1,224 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Vorlesung Erbrecht (Sommersemester 2023)</title>
-    <link>http://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>
-    <language>de-de</language>
-    <copyright>Prof. Dr. Stephan Lorenz</copyright>
-    <itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
-    <itunes:summary>Podcast zur Vorlesung Erbrecht an der LMU München im Sommersemester 2023.</itunes:summary>
-    <description>Vorlesung Erbrecht von Prof. Dr. Stephan Lorenz.</description>
-    <itunes:owner>
-      <itunes:name>Stephan Lorenz</itunes:name>
-    </itunes:owner>
-    <itunes:image href="https://cms-cdn.lmu.de/media/03-jura/dokumente/unbenannt-6_1_1_format_m.jpg" />
-    <itunes:category text="Education">
-      <itunes:category text="Higher Education" />
-    </itunes:category>
-    <itunes:explicit>no</itunes:explicit>
-
-    <item>
-      <title>Folge 12 Teil 2: Erbschein, Europäisches Nachlasszeugnis, Erbenhaftung, Erbengemeinschaft</title>
-      <itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
-      <description>§ 14 Rechtsstellung des Erben: Gutglaubensschutz beim Erbschein (§§ 2365 ff. BGB), Bezüge des Erbscheins zum Sachenrecht, Europäisches Nachlasszeugnis; § 15 Erbenhaftung; § 16 Erbengemeinschaft. (Aufzeichnung von 2019 als technischer Ersatz)</description>
-      <pubDate>Wed, 05 Jul 2023 14:00:00 GMT</pubDate>
-      <enclosure url="https://cast.itunes.uni-muenchen.de/clips/yezfHevvnb/vod/audio_only.mp3" type="audio/mpeg" length="1500" />
-      <guid isPermaLink="false">erbr2023-12b</guid>
-      <itunes:image href="https://cms-cdn.lmu.de/media/03-jura/dokumente/unbenannt-6_1_1_format_m.jpg" />
-    </item>
-
-    <item>
-      <title>Folge 12 Teil 1: Erbschein, Europäisches Nachlasszeugnis, Erbenhaftung, Erbengemeinschaft</title>
-      <itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
-      <description>§ 14 Rechtsstellung des Erben: Erbschein (§§ 2353 ff. BGB), Gutglaubensschutz beim Erbschein (§§ 2365 ff. BGB)</description>
-      <pubDate>Wed, 05 Jul 2023 12:00:00 GMT</pubDate>
-      <enclosure url="http://lorenz.userweb.mwn.de/podcast/erbr12a.mp3" type="audio/mpeg" length="0" />
-      <guid isPermaLink="false">erbr2023-12a</guid>
-      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr12.jpg" />
-    </item>
-
-    <item>
-      <title>Folge 11: Ausschlagung, Gegenstand der Erbfolge, Erbschaftsanspruch</title>
-      <description>§ 13 Erbschaftserwerb: Ausschlagung, Annahme, Anfechtung; § 14 Rechtsstellung des Erben: Gegenstand der Erbfolge, Rechtsnachfolge, Erbschaftsanspruch.</description>
-      <pubDate>Wed, 28 Jun 2023 12:00:00 GMT</pubDate>
-      <enclosure url="http://lorenz.userweb.mwn.de/podcast/erbr11.mp3" type="audio/mpeg" length="0" />
-      <guid isPermaLink="false">erbr2023-11</guid>
-      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr11.jpg" />
-    </item>
-
-    <item>
-      <title>Folge 10: Pflichtteilsrecht, Schenkungen von Todes wegen, Vertrag zugunsten Dritter</title>
-      <description>§ 11 Pflichtteilsrecht und Erbverzicht; § 12 Rechtsgeschäfte unter Lebenden auf den Todesfall: Schenkung, Vertrag zugunsten Dritter.</description>
-      <pubDate>Wed, 21 Jun 2023 12:00:00 GMT</pubDate>
-      <enclosure url="http://lorenz.userweb.mwn.de/podcast/erbr10.mp3" type="audio/mpeg" length="0" />
-      <guid isPermaLink="false">erbr2023-10</guid>
-      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr10.jpg" />
-    </item>
-
-    <item>
-      <title>Folge 9: Erbvertrag, Pflichtteilsrecht</title>
-      <description>§ 10 Erbvertrag: Abschluss, Inhalt, Bindungswirkung; § 11 Pflichtteilsrecht: Zweck, Voraussetzungen, Ehegattenpflichtteil.</description>
-      <pubDate>Wed, 14 Jun 2023 12:00:00 GMT</pubDate>
-      <enclosure url="http://lorenz.userweb.mwn.de/podcast/erbr09.mp3" type="audio/mpeg" length="0" />
-      <guid isPermaLink="false">erbr2023-09</guid>
-      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr09.jpg" />
-    </item>
-
-    <item>
-      <title>Folge 8: Anfechtung, gemeinschaftliches Testament, Berliner Testament</title>
-      <description>§ 8 Vornahme der Anfechtung; § 9 Gemeinschaftliches Testament: Formen, Unwirksamkeit bei Scheidung, Trennungs- und Einheitslösung, Berliner Testament.</description>
-      <pubDate>Wed, 07 Jun 2023 12:00:00 GMT</pubDate>
-      <enclosure url="
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<title>LMU Erbrecht 2019</title>
+<description>Der Podcast wird im Rahmen der Vorlesung "Erbrecht" im Sommersemester 2019 erstellt. Gegenstand sind die Grundzüge des Erbrechts in dem von den Ausbildungs- und Prüfungsordnungen vorgesehenen Rahmen. Nähere Informationen über die Vorlesung, insbesondere Gliederung und begleitende Materialien, finden sich unter www.stephan-lorenz.de. Die in der Vorlesung vertretenen Meinungen und rechtlichen Wertungen stellen die individuelle Ansicht des Vortragenden dar. Sie dienen der Ausbildung, nicht der Rechtsberatung. Dieses Angebot kann jederzeit ohne vorherige Ankündigung geändert oder eingestellt werden.</description>
+<itunes:summary>Der Podcast wird im Rahmen der Vorlesung "Erbrecht" im Sommersemester 2019 erstellt. Gegenstand sind die Grundzüge des Erbrechts in dem von den Ausbildungs- und Prüfungsordnungen vorgesehenen Rahmen. Nähere Informationen über die Vorlesung, insbesondere Gliederung und begleitende Materialien, finden sich unter www.stephan-lorenz.de. Die in der Vorlesung vertretenen Meinungen und rechtlichen Wertungen stellen die individuelle Ansicht des Vortragenden dar. Sie dienen der Ausbildung, nicht der Rechtsberatung. Dieses Angebot kann jederzeit ohne vorherige Ankündigung geändert oder eingestellt werden.</itunes:summary>
+<itunes:keywords>Zivilrecht, Erbrecht, gesetzliche Erbfolge, Testament, Pflichtteil, LMU München, Prof. Lorenz</itunes:keywords>
+<link>https://cast.itunes.uni-muenchen.de/vod/playlists/N24nDbFhEx.html</link>
+<pubDate>Tue, 23 Apr 2019 08:27:45 +0000</pubDate>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:category text=""/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:owner>
+<itunes:name>Ludwig-Maximilians-Universität München</itunes:name>
+<itunes:email>itunes@lmu.de</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<language>de</language>
+<item>
+<title>Erbrecht - Folge 12</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/JqkGUQKnRi/vod/high_quality.mp4</link>
+<description>§ 14 Rechtsstellung des Erben: Gutglaubensschutz beim Erbschein (§§ 2365 ff. BGB), Bezüge des Erbscheins zum Sachenrecht, Europäisches Nachlasszeugnis; § 15 Erbenhaftung; § 16 Erbengemeinschaft</description>
+<itunes:summary>§ 14 Rechtsstellung des Erben: Gutglaubensschutz beim Erbschein (§§ 2365 ff. BGB), Bezüge des Erbscheins zum Sachenrecht, Europäisches Nachlasszeugnis; § 15 Erbenhaftung; § 16 Erbengemeinschaft</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>00:57:18</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>0</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/JqkGUQKnRi/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/JqkGUQKnRi/vod/high_quality.mp4" length="182644508" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 11</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/XPwO5AKhHw/vod/high_quality.mp4</link>
+<description>§ 13 Erbschaftserwerb: Ausschlagung (§§ 1943 ff. BGB), Annahme (§ 1943 BGB), Anfechtung von Annahme und Ausschlagung (§§ 1945 ff. BGB), Rechtsstellung des "vorläufigen Erben" (§§ 1958 ff. BGB); § 14 Rechtsstellung des Erben: Gegenstand der Erbfolge (§ 1922 BGB), Rechtsnachfolge in Kapital- und Personengesellschaften, Erbschaftsanspruch (§§ 2018 ff. BGB), Erbschein (§§ 2353 ff. BGB)</description>
+<itunes:summary>§ 13 Erbschaftserwerb: Ausschlagung (§§ 1943 ff. BGB), Annahme (§ 1943 BGB), Anfechtung von Annahme und Ausschlagung (§§ 1945 ff. BGB), Rechtsstellung des "vorläufigen Erben" (§§ 1958 ff. BGB); § 14 Rechtsstellung des Erben: Gegenstand der Erbfolge (§ 1922 BGB), Rechtsnachfolge in Kapital- und Personengesellschaften, Erbschaftsanspruch (§§ 2018 ff. BGB), Erbschein (§§ 2353 ff. BGB)</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:27:35</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>1</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/XPwO5AKhHw/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/XPwO5AKhHw/vod/high_quality.mp4" length="256450912" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 10</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/k5vEcYVKJF/vod/high_quality.mp4</link>
+<description>§ 11 Pflichtteilsrecht (§ 2303 ff. BGB) und Erbverzicht: Zusatzpflichtteil, Pflichtteilsergänzungen bei Schenkungen; § 12 Rechtsgeschäfte unter Lebenden auf den Todesfall: Schenkung von Todes wegen (§ 2301 BGB), Beispiel "Bonifatius-Fall" (RGZ 83, 223), Vertragzugunsten Dritter auf den Todesfall</description>
+<itunes:summary>§ 11 Pflichtteilsrecht (§ 2303 ff. BGB) und Erbverzicht: Zusatzpflichtteil, Pflichtteilsergänzungen bei Schenkungen; § 12 Rechtsgeschäfte unter Lebenden auf den Todesfall: Schenkung von Todes wegen (§ 2301 BGB), Beispiel "Bonifatius-Fall" (RGZ 83, 223), Vertragzugunsten Dritter auf den Todesfall</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:23:32</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>2</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/k5vEcYVKJF/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/k5vEcYVKJF/vod/high_quality.mp4" length="256562168" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 9</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/41yyyfldBr/vod/high_quality.mp4</link>
+<description>§ 10 Die gewillkürte Erbfolge, Teil 7: Erbvertrag: Aufhebung, Rücktritt und Anfechtung des Erbvertrages; § 11 Pflichtteilsrecht (§§ 2303 ff. BGB) und Erbverzicht: Zweck, Struktur und Voraussetzungen der §§ 2303 ff. BGB, Rechtsnatur der §§ 2303 ff. BGB, Pflichtteilsrecht des überlebenden Ehegatten, Rechenbeispiel zur güterrechtlichen/erbrechtlichen Lösung</description>
+<itunes:summary>§ 10 Die gewillkürte Erbfolge, Teil 7: Erbvertrag: Aufhebung, Rücktritt und Anfechtung des Erbvertrages; § 11 Pflichtteilsrecht (§§ 2303 ff. BGB) und Erbverzicht: Zweck, Struktur und Voraussetzungen der §§ 2303 ff. BGB, Rechtsnatur der §§ 2303 ff. BGB, Pflichtteilsrecht des überlebenden Ehegatten, Rechenbeispiel zur güterrechtlichen/erbrechtlichen Lösung</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:24:58</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>3</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/41yyyfldBr/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/41yyyfldBr/vod/high_quality.mp4" length="233979356" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 8</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/bhOPBms5AB/vod/high_quality.mp4</link>
+<description>§ 9 Die gewillkürte Erbfolge, Teil 6: Das gemeinschaftliche Testament: Besondere Formen des gemeinschaftlichen Testaments, Unwirksamkeit des gemeinschaftlichen Testaments bei Ehescheidung, Problem: Wiederverheiratung nach Ehescheidung, Trennungs- und Einheitslösung, Wechselbezügliche Verfügungen, "Berliner Testament"; § 10 Die gewillkürte Erbfolge, Teil 7: Erbvertrag: Abschluss, Inhalt und Bindungswirkung </description>
+<itunes:summary>§ 9 Die gewillkürte Erbfolge, Teil 6: Das gemeinschaftliche Testament: Besondere Formen des gemeinschaftlichen Testaments, Unwirksamkeit des gemeinschaftlichen Testaments bei Ehescheidung, Problem: Wiederverheiratung nach Ehescheidung, Trennungs- und Einheitslösung, Wechselbezügliche Verfügungen, "Berliner Testament"; § 10 Die gewillkürte Erbfolge, Teil 7: Erbvertrag: Abschluss, Inhalt und Bindungswirkung </itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:27:02</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>5</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/bhOPBms5AB/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/bhOPBms5AB/vod/high_quality.mp4" length="254369742" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 7</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/7cbtqeurlB/vod/high_quality.mp4</link>
+<description>§ 6 Die gewillkürte Erbfolge, Teil 3: Inhalt des Testaments: Auflage (§§ 1940, 2192 ff. BGB), Bedingte Verfügungen §§ 2074 - 2076 BGB); § 7 Die gewillkürte Erbfolge, Teil 4: Auslegung und Umdeutung des Testaments: Auslegung letztwilliger Verfügungen, Allgemeine Auslegungsreglen, Umdeutung von letztwilligen Verfügungen; § 8 Die gewillkürte Erbfolge, Teil 5: Unwirksamkeit und Anfechtbarkeit von Testamenten: Anfechtbarkeit, Anfechtungsgründe, Vornahme der Anfechtung</description>
+<itunes:summary>§ 6 Die gewillkürte Erbfolge, Teil 3: Inhalt des Testaments: Auflage (§§ 1940, 2192 ff. BGB), Bedingte Verfügungen §§ 2074 - 2076 BGB); § 7 Die gewillkürte Erbfolge, Teil 4: Auslegung und Umdeutung des Testaments: Auslegung letztwilliger Verfügungen, Allgemeine Auslegungsreglen, Umdeutung von letztwilligen Verfügungen; § 8 Die gewillkürte Erbfolge, Teil 5: Unwirksamkeit und Anfechtbarkeit von Testamenten: Anfechtbarkeit, Anfechtungsgründe, Vornahme der Anfechtung</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:24:34</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>6</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/7cbtqeurlB/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/7cbtqeurlB/vod/high_quality.mp4" length="238292390" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 6</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/QkoBlJQnkY/vod/high_quality.mp4</link>
+<description>§ 6 Die gewillkürte Erbfolge, Teil 3: Inhalt des Testament: Rechtliche Stellung des Vorerben, Rechtliche Stellung des Nacherben, 30-Jahres-Grenze, Bedingte Nacherbeinsetzung ohne Benennung des Nacherben, Vermächtnis (1939, 2147 ff. BGB), Arten von Vermächtnissen, Erwerb (Anfall), Gewährleistung, Unmöglichkeit</description>
+<itunes:summary>§ 6 Die gewillkürte Erbfolge, Teil 3: Inhalt des Testament: Rechtliche Stellung des Vorerben, Rechtliche Stellung des Nacherben, 30-Jahres-Grenze, Bedingte Nacherbeinsetzung ohne Benennung des Nacherben, Vermächtnis (1939, 2147 ff. BGB), Arten von Vermächtnissen, Erwerb (Anfall), Gewährleistung, Unmöglichkeit</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:23:36</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>8</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/QkoBlJQnkY/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/QkoBlJQnkY/vod/high_quality.mp4" length="235019444" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 5</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/XGl6zBOrQp/vod/high_quality.mp4</link>
+<description>§ 6 Die gewillkürte Erbfolge, Teil 3: Inhalt des Testaments: Anwachsung (§ 2094 BGB), Vor- und Nacherbfolge (§§ 2100 ff. BGB), Ersatzerbe (§ 2096 BGB), Abgrenzung zur Ersatzerbfolge/Schlusserbfolge, "Berliner Testament", Rechtliche Stellung des Vorerben</description>
+<itunes:summary>§ 6 Die gewillkürte Erbfolge, Teil 3: Inhalt des Testaments: Anwachsung (§ 2094 BGB), Vor- und Nacherbfolge (§§ 2100 ff. BGB), Ersatzerbe (§ 2096 BGB), Abgrenzung zur Ersatzerbfolge/Schlusserbfolge, "Berliner Testament", Rechtliche Stellung des Vorerben</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:26:18</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>9</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/XGl6zBOrQp/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/XGl6zBOrQp/vod/high_quality.mp4" length="258043797" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 4</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/y8Ib5Gue61/vod/high_quality.mp4</link>
+<description>§ 5 Die gewillkürte Erbfolge, Teil 2: Errichtung und Widderuf des Testaments: Testamentsformen, das eigenhändige Testament, Amtliche Verwahrung von Testamenten, Widerruf von Testamenten; § 6 Die gewillkürte Erbfolge, Teil 3: Inhalt des Testaments: Überblick, Erbeinsetzung auf einen Bruchteil, Erbeinsetzung nach Vermögensgruppen</description>
+<itunes:summary>§ 5 Die gewillkürte Erbfolge, Teil 2: Errichtung und Widderuf des Testaments: Testamentsformen, das eigenhändige Testament, Amtliche Verwahrung von Testamenten, Widerruf von Testamenten; § 6 Die gewillkürte Erbfolge, Teil 3: Inhalt des Testaments: Überblick, Erbeinsetzung auf einen Bruchteil, Erbeinsetzung nach Vermögensgruppen</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:27:25</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>10</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/y8Ib5Gue61/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/y8Ib5Gue61/vod/high_quality.mp4" length="264613800" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 3</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/oGNJl3GqoV/vod/high_quality.mp4</link>
+<description>§ 3 Die gesetzliche Erbfolge: Beispiele zur gesetzlichen Erbfolge; § 4 Die gewillkürte Erbfolge, Teil 1: Grundlagen: Testierfreiheit, Grenzen der Testierfreiheit (insb. Sittenwidrigkeit, Numerus clausus, Testierfähigkeit, Höchstpersönlichkeit der Errichtung von Verfügungen von Todes wegen); § 5 Die gewillkürte Erbfolge, Teil 2: Errichtung und Widerruf von Testamenten: Grundlagen</description>
+<itunes:summary>§ 3 Die gesetzliche Erbfolge: Beispiele zur gesetzlichen Erbfolge; § 4 Die gewillkürte Erbfolge, Teil 1: Grundlagen: Testierfreiheit, Grenzen der Testierfreiheit (insb. Sittenwidrigkeit, Numerus clausus, Testierfähigkeit, Höchstpersönlichkeit der Errichtung von Verfügungen von Todes wegen); § 5 Die gewillkürte Erbfolge, Teil 2: Errichtung und Widerruf von Testamenten: Grundlagen</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:25:32</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>11</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/oGNJl3GqoV/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/oGNJl3GqoV/vod/high_quality.mp4" length="210191044" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 2</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/i5YjxDLr0v/vod/high_quality.mp4</link>
+<description>§ 3 Die gesetzliche Erbfolge: Erbteil des Ehegatten, Einfluss des Ehegüterrechts auf die Erbquote, Zugewinngemeinschaft, Voraus (§ 1932 BGB), Gesetzliches Erbrecht des Lebenspartners, Erbrecht des Staates (Fiskuserbrecht, § 1936 BGB), Übung: Gesetzliche Erbfolge</description>
+<itunes:summary>§ 3 Die gesetzliche Erbfolge: Erbteil des Ehegatten, Einfluss des Ehegüterrechts auf die Erbquote, Zugewinngemeinschaft, Voraus (§ 1932 BGB), Gesetzliches Erbrecht des Lebenspartners, Erbrecht des Staates (Fiskuserbrecht, § 1936 BGB), Übung: Gesetzliche Erbfolge</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>00:53:08</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>12</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/i5YjxDLr0v/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/i5YjxDLr0v/vod/high_quality.mp4" length="121950756" type="video/mp4"/>
+</item>
+<item>
+<title>Erbrecht - Folge 1</title>
+<link>https://cast.itunes.uni-muenchen.de/clips/ptJEgmQFva/vod/high_quality.mp4</link>
+<description>§ 1 Einführung: Begriffe des Erbrechts, Rechtsquellen des Erbrechts, Internationales Erbrecht, Erbschaftssteuer; § 2 Grundbegriffe und Grundprinzipien des Erbrechts: Erblasser und Erbfall (Postmortales Persönlichkeitsrecht), Erbe und Erbfähigkeit, Gesetzliche und gewillkürte Erbfolge; § 3 Die gesetzliche Erbfolge: Verwandtenerbrecht, Parantel-/Gradualsystem, Ehegattenerbrecht</description>
+<itunes:summary>§ 1 Einführung: Begriffe des Erbrechts, Rechtsquellen des Erbrechts, Internationales Erbrecht, Erbschaftssteuer; § 2 Grundbegriffe und Grundprinzipien des Erbrechts: Erblasser und Erbfall (Postmortales Persönlichkeitsrecht), Erbe und Erbfähigkeit, Gesetzliche und gewillkürte Erbfolge; § 3 Die gesetzliche Erbfolge: Verwandtenerbrecht, Parantel-/Gradualsystem, Ehegattenerbrecht</itunes:summary>
+<pubDate>Wed, 05 Jul 2023 13:52:28 +0000</pubDate>
+<itunesu:category itunesu:code="110100"/>
+<itunes:image href="https://cast.itunes.uni-muenchen.de/itunesu/icons/V2_Icon_Fak03_Erbrecht.png"/>
+<itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+<itunes:subtitle>Vorlesung Erbrecht</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>01:25:15</itunes:duration>
+<itunes:keywords/>
+<itunes:episode>13</itunes:episode>
+<guid isPermaLink="false">https://cast.itunes.uni-muenchen.de/clips/ptJEgmQFva/vod/high_quality.mp4</guid>
+<enclosure url="https://cast.itunes.uni-muenchen.de/clips/ptJEgmQFva/vod/high_quality.mp4" length="218533934" type="video/mp4"/>
+</item>
+</channel>
+</rss>
