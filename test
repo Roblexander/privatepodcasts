@@ -1,0 +1,68 @@
+<rss version="2.0">
+      <channel>
+          <title>
+              podcast.de Podcast
+          </title>
+          <description>
+              Aktuellen Nachrichten aus der deutschsprachigen Podcast-Szene
+          </description>
+          <link>
+              http://www.podcast.de
+          </link>
+          <lastBuildDate>
+              Tue, 02 Aug 2005 08:42:43 +0100
+          </lastBuildDate>
+          <generator>
+              podcast.de generator
+          </generator>
+          <image>
+              <url>           http://blog.podcast.de/images/10.png
+              </url>
+              <title>
+                  podcast Logo
+              </title>
+              <link>
+              http://www.podcast.de#news
+              </link>
+              <description>
+                  Hier erfahren Sie alles zum Thema Podcasting
+              </description>
+          </image>
+          <language>
+              de-de
+          </language>
+          <copyright>
+              CC podcast.de 2005
+          </copyright>
+          <managingEditor>
+              demo@podcast.de (Fabio Bacigalupo)
+          </managingEditor>
+          <webMaster>
+              demo@podcast.de (Fabio Bacigalupo)
+          </webMaster>
+          <category>
+              News
+          </category>
+          <ttl>
+              600
+          </ttl>
+          <item>
+              <title>
+                  Neue Informationen bei podcast.de
+              </title>
+              <link>
+        http://www.podcast.de#produktion
+              </link>
+              <description>
+                  Wir haben den Bereich Produktion mit neuen Informationen erweitert.
+              </description>
+              <author>
+                  demo@podcast.de (Fabio Bacigalupo)
+              </author>
+              <enclosure url="http://www.podcast.de/01_news_podcast_de.mp3" 
+                  length="4538745" 
+                  type="audio/mpeg"
+              />
+          </item>
+      </channel>
+  </rss
