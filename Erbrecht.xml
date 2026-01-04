@@ -1,29 +1,60 @@
-<RSS version="2.0">
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Erbrecht Sommersemester 2023</title>
-    <link>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>    
-    <description>Erbrecht Vorlesung Sommersemester Prof. Dr. Stephan Lorenz LMU München</description>
-    <language>en-de</language>
-    <docs>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</docs>
-    <generator>gedit in Ubuntu Linux</generator>
+    <title>Vorlesung Erbrecht (Sommersemester 2023)</title>
+    <link>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>
+    <language>de-de</language>
+    <copyright>Prof. Dr. Stephan Lorenz</copyright>
+    <itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+    <description>Podcast zur Vorlesung Erbrecht an der Ludwig-Maximilians-Universität München (Sommersemester 2023) von Prof. Dr. Stephan Lorenz.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Education">
+      <itunes:category text="Higher Education"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://lorenz.userweb.mwn.de/bilder/lorenz_kl.jpg"/>
 
     <item>
-       <title>Erbrecht - Folge 1</title>
-       <description>Erbrecht - Folge 1: Grundbegriffe, Rechtsquellen, gesetzliche Erbfolge</description>
-       <link>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>
-       <enclosure url="https://cast.itunes.uni-muenchen.de/clips/XG7BJrUdkG/vod/audio_only.mp3" length="" type="audio/mpeg" />
-       <pubDate>Mon, 19 Apr 2023 13:00:00 -0700</pubDate>
+      <title>Folge 12 Teil 2: Erbschein, Europäisches Nachlasszeugnis, Erbenhaftung, Erbengemeinschaft</title>
+      <description>§ 14 Rechtsstellung des Erben: Gutglaubensschutz beim Erbschein (§§ 2365 ff. BGB), Bezüge des Erbscheins zum Sachenrecht, Europäisches Nachlasszeugnis; § 15 Erbenhaftung; § 16 Erbengemeinschaft</description>
+      <pubDate>Wed, 05 Jul 2023 10:00:00 +0200</pubDate>
+      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_12b.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">erbr23_12b</guid>
+      <itunes:duration>00:00:00</itunes:duration>
     </item>
 
     <item>
-       <title>Erbrecht - Folge 2</title>
-       <description>Gesetzliche Erbfolge, Erbteil des Ehegatten, Übungsfälle</description>
-       <link>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>
-       <enclosure url="https://cast.itunes.uni-muenchen.de/clips/7OO7gOonSE/vod/audio_only.mp3" length="" type="audio/mpeg" />
-       <pubDate>Mon, 20 Apr 2023 13:00:00 -0700</pubDate>
+      <title>Folge 12 Teil 1: Erbschein, Europäisches Nachlasszeugnis, Erbenhaftung, Erbengemeinschaft</title>
+      <description>§ 14 Rechtsstellung des Erben: Erbschein (§§ 2353 ff. BGB), Gutglaubensschutz beim Erbschein (§§ 2365 ff. BGB)</description>
+      <pubDate>Wed, 05 Jul 2023 09:00:00 +0200</pubDate>
+      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_12a.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">erbr23_12a</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+
+    <item>
+      <title>Folge 11: Ausschlagung, Gegenstand der Erbfolge, Erbschaftsanspruch</title>
+      <description>§ 13 Erbschaftserwerb: Ausschlagung, Annahme, Anfechtung, Rechtsstellung des vorläufigen Erben; § 14 Rechtsstellung des Erben: Gegenstand der Erbfolge, Erbschaftsanspruch</description>
+      <pubDate>Wed, 28 Jun 2023 10:00:00 +0200</pubDate>
+      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_11.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">erbr23_11</guid>
+    </item>
+
+    <item>
+      <title>Folge 10: Pflichtteilsrecht, Schenkungen von Todes wegen</title>
+      <description>§ 11 Pflichtteilsrecht (§§ 2303 ff. BGB) und Erbverzicht; § 12 Rechtsgeschäfte unter Lebenden auf den Todesfall: Schenkung von Todes wegen (§ 2301 BGB)</description>
+      <pubDate>Wed, 21 Jun 2023 10:00:00 +0200</pubDate>
+      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_10.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">erbr23_10</guid>
+    </item>
+
+    <item>
+      <title>Folge 1: Grundbegriffe, Rechtsquellen, gesetzliche Erbfolge</title>
+      <description>§ 1 Einführung: Begriffe, Rechtsquellen; § 2 Grundbegriffe und Grundprinzipien; § 3 Die gesetzliche Erbfolge: Verwandtenerbrecht</description>
+      <pubDate>Wed, 19 Apr 2023 10:00:00 +0200</pubDate>
+      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_01.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">erbr23_01</guid>
     </item>
 
   </channel>
-
-</RSS>
+</rss>
