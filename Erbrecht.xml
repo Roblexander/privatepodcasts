@@ -11,7 +11,7 @@
     <itunes:owner>
       <itunes:name>Stephan Lorenz</itunes:name>
     </itunes:owner>
-    <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbrecht.jpg" />
+    <itunes:image href="https://cms-cdn.lmu.de/media/03-jura/dokumente/unbenannt-6_1_1_format_m.jpg" />
     <itunes:category text="Education">
       <itunes:category text="Higher Education" />
     </itunes:category>
@@ -24,7 +24,7 @@
       <pubDate>Wed, 05 Jul 2023 14:00:00 GMT</pubDate>
       <enclosure url="https://cast.itunes.uni-muenchen.de/clips/yezfHevvnb/vod/audio_only.mp3" type="audio/mpeg" length="1500" />
       <guid isPermaLink="false">erbr2023-12b</guid>
-      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr12.jpg" />
+      <itunes:image href="https://cms-cdn.lmu.de/media/03-jura/dokumente/unbenannt-6_1_1_format_m.jpg" />
     </item>
 
     <item>
