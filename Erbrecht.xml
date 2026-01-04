@@ -2,59 +2,70 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vorlesung Erbrecht (Sommersemester 2023)</title>
-    <link>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>
+    <link>http://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>
     <language>de-de</language>
     <copyright>Prof. Dr. Stephan Lorenz</copyright>
     <itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
-    <description>Podcast zur Vorlesung Erbrecht an der Ludwig-Maximilians-Universität München (Sommersemester 2023) von Prof. Dr. Stephan Lorenz.</description>
-    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Podcast zur Vorlesung Erbrecht an der LMU München im Sommersemester 2023.</itunes:summary>
+    <description>Vorlesung Erbrecht von Prof. Dr. Stephan Lorenz.</description>
+    <itunes:owner>
+      <itunes:name>Stephan Lorenz</itunes:name>
+    </itunes:owner>
+    <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbrecht.jpg" />
     <itunes:category text="Education">
-      <itunes:category text="Higher Education"/>
+      <itunes:category text="Higher Education" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://lorenz.userweb.mwn.de/bilder/lorenz_kl.jpg"/>
 
     <item>
       <title>Folge 12 Teil 2: Erbschein, Europäisches Nachlasszeugnis, Erbenhaftung, Erbengemeinschaft</title>
-      <description>§ 14 Rechtsstellung des Erben: Gutglaubensschutz beim Erbschein (§§ 2365 ff. BGB), Bezüge des Erbscheins zum Sachenrecht, Europäisches Nachlasszeugnis; § 15 Erbenhaftung; § 16 Erbengemeinschaft</description>
-      <pubDate>Wed, 05 Jul 2023 10:00:00 +0200</pubDate>
-      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_12b.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">erbr23_12b</guid>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
+      <description>§ 14 Rechtsstellung des Erben: Gutglaubensschutz beim Erbschein (§§ 2365 ff. BGB), Bezüge des Erbscheins zum Sachenrecht, Europäisches Nachlasszeugnis; § 15 Erbenhaftung; § 16 Erbengemeinschaft. (Aufzeichnung von 2019 als technischer Ersatz)</description>
+      <pubDate>Wed, 05 Jul 2023 14:00:00 GMT</pubDate>
+      <enclosure url="http://lorenz.userweb.mwn.de/podcast/erbr12b.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">erbr2023-12b</guid>
+      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr12.jpg" />
     </item>
 
     <item>
       <title>Folge 12 Teil 1: Erbschein, Europäisches Nachlasszeugnis, Erbenhaftung, Erbengemeinschaft</title>
+      <itunes:author>Prof. Dr. Stephan Lorenz</itunes:author>
       <description>§ 14 Rechtsstellung des Erben: Erbschein (§§ 2353 ff. BGB), Gutglaubensschutz beim Erbschein (§§ 2365 ff. BGB)</description>
-      <pubDate>Wed, 05 Jul 2023 09:00:00 +0200</pubDate>
-      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_12a.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">erbr23_12a</guid>
-      <itunes:duration>00:00:00</itunes:duration>
+      <pubDate>Wed, 05 Jul 2023 12:00:00 GMT</pubDate>
+      <enclosure url="http://lorenz.userweb.mwn.de/podcast/erbr12a.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">erbr2023-12a</guid>
+      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr12.jpg" />
     </item>
 
     <item>
       <title>Folge 11: Ausschlagung, Gegenstand der Erbfolge, Erbschaftsanspruch</title>
-      <description>§ 13 Erbschaftserwerb: Ausschlagung, Annahme, Anfechtung, Rechtsstellung des vorläufigen Erben; § 14 Rechtsstellung des Erben: Gegenstand der Erbfolge, Erbschaftsanspruch</description>
-      <pubDate>Wed, 28 Jun 2023 10:00:00 +0200</pubDate>
-      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_11.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">erbr23_11</guid>
+      <description>§ 13 Erbschaftserwerb: Ausschlagung, Annahme, Anfechtung; § 14 Rechtsstellung des Erben: Gegenstand der Erbfolge, Rechtsnachfolge, Erbschaftsanspruch.</description>
+      <pubDate>Wed, 28 Jun 2023 12:00:00 GMT</pubDate>
+      <enclosure url="http://lorenz.userweb.mwn.de/podcast/erbr11.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">erbr2023-11</guid>
+      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr11.jpg" />
     </item>
 
     <item>
-      <title>Folge 10: Pflichtteilsrecht, Schenkungen von Todes wegen</title>
-      <description>§ 11 Pflichtteilsrecht (§§ 2303 ff. BGB) und Erbverzicht; § 12 Rechtsgeschäfte unter Lebenden auf den Todesfall: Schenkung von Todes wegen (§ 2301 BGB)</description>
-      <pubDate>Wed, 21 Jun 2023 10:00:00 +0200</pubDate>
-      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_10.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">erbr23_10</guid>
+      <title>Folge 10: Pflichtteilsrecht, Schenkungen von Todes wegen, Vertrag zugunsten Dritter</title>
+      <description>§ 11 Pflichtteilsrecht und Erbverzicht; § 12 Rechtsgeschäfte unter Lebenden auf den Todesfall: Schenkung, Vertrag zugunsten Dritter.</description>
+      <pubDate>Wed, 21 Jun 2023 12:00:00 GMT</pubDate>
+      <enclosure url="http://lorenz.userweb.mwn.de/podcast/erbr10.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">erbr2023-10</guid>
+      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr10.jpg" />
     </item>
 
     <item>
-      <title>Folge 1: Grundbegriffe, Rechtsquellen, gesetzliche Erbfolge</title>
-      <description>§ 1 Einführung: Begriffe, Rechtsquellen; § 2 Grundbegriffe und Grundprinzipien; § 3 Die gesetzliche Erbfolge: Verwandtenerbrecht</description>
-      <pubDate>Wed, 19 Apr 2023 10:00:00 +0200</pubDate>
-      <enclosure url="https://lorenz.userweb.mwn.de/audio/erbr23_01.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">erbr23_01</guid>
+      <title>Folge 9: Erbvertrag, Pflichtteilsrecht</title>
+      <description>§ 10 Erbvertrag: Abschluss, Inhalt, Bindungswirkung; § 11 Pflichtteilsrecht: Zweck, Voraussetzungen, Ehegattenpflichtteil.</description>
+      <pubDate>Wed, 14 Jun 2023 12:00:00 GMT</pubDate>
+      <enclosure url="http://lorenz.userweb.mwn.de/podcast/erbr09.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">erbr2023-09</guid>
+      <itunes:image href="http://lorenz.userweb.mwn.de/podcast/erbr09.jpg" />
     </item>
 
-  </channel>
-</rss>
+    <item>
+      <title>Folge 8: Anfechtung, gemeinschaftliches Testament, Berliner Testament</title>
+      <description>§ 8 Vornahme der Anfechtung; § 9 Gemeinschaftliches Testament: Formen, Unwirksamkeit bei Scheidung, Trennungs- und Einheitslösung, Berliner Testament.</description>
+      <pubDate>Wed, 07 Jun 2023 12:00:00 GMT</pubDate>
+      <enclosure url="
