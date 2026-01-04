@@ -1,0 +1,29 @@
+<RSS version="2.0">
+
+  <channel>
+    <title>Erbrecht Sommersemester 2023</title>
+    <link>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>    
+    <description>Erbrecht Vorlesung Sommersemester Prof. Dr. Stephan Lorenz LMU München</description>
+    <language>en-de</language>
+    <docs>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</docs>
+    <generator>gedit in Ubuntu Linux</generator>
+
+    <item>
+       <title>Erbrecht - Folge 1</title>
+       <description>Erbrecht - Folge 1: Grundbegriffe, Rechtsquellen, gesetzliche Erbfolge</description>
+       <link>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>
+       <enclosure url="https://cast.itunes.uni-muenchen.de/clips/XG7BJrUdkG/vod/audio_only.mp3" length="" type="audio/mpeg" />
+       <pubDate>Mon, 19 Apr 2023 13:00:00 -0700</pubDate>
+    </item>
+
+    <item>
+       <title>Erbrecht - Folge 2</title>
+       <description>Gesetzliche Erbfolge, Erbteil des Ehegatten, Übungsfälle</description>
+       <link>https://lorenz.userweb.mwn.de/podcast_erbr2023.htm</link>
+       <enclosure url="https://cast.itunes.uni-muenchen.de/clips/7OO7gOonSE/vod/audio_only.mp3" length="" type="audio/mpeg" />
+       <pubDate>Mon, 20 Apr 2023 13:00:00 -0700</pubDate>
+    </item>
+
+  </channel>
+
+</RSS>
